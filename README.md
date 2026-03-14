@@ -2,6 +2,7 @@
 
 > 一周食谱规划 + 购物清单生成技能 — 根据人数、食材、饮食偏好自动规划三餐，零浪费购物。
 
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Allen091080/meal-planner/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey)](.)
